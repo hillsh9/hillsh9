@@ -1,2 +1,2 @@
-# hillsh9
+# Scott Hillman
 My GitHub Pages Website
